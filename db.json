@@ -1,0 +1,195 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Unbranded Soft Chips",
+      "price": 919,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "typeImg": "animals"
+      },
+      "images": [
+        "https://www.dismac.com.bo/media/catalog/product/k/m/kmw-340bk.png",
+        "https://www.rafenlinea.com/7899-home_default/mouse-inalambrico-microsort-bluetooth-ergonomic-222-00002.jpg",
+        "https://www.rafenlinea.com/6457-home_default/mouse-optico-inalambrico-xtech-azul-xtm-315bl.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Football",
+      "price": 660,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "typeImg": "animals"
+      },
+      "images": [
+        "https://ae01.alicdn.com/kf/S5af0775ef8c247a5903f20509d2aee97K/Unicorn-Sports-pelota-redonda-de-goma-4-bolas-de-8-5-pulgadas-cuadradas-color-arco-ris.jpg",
+        "https://ae01.alicdn.com/kf/Sb15ed65077c244c680ba4ab1bf63780ae.jpg_640x640Q90.jpg_.webp",
+        "https://ae01.alicdn.com/kf/S03697edd1d684f4193427543dc688671Z/Unicorn-Sports-pelota-redonda-de-goma-4-bolas-de-8-5-pulgadas-cuadradas-color-arco-ris.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Rustic Soft Computer",
+      "price": 697,
+      "description": "Rustic Soft Computer",
+      "category": {
+        "id": 4,
+        "name": "Toys",
+        "typeImg": "any"
+      },
+      "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/12/FN/ZL/OJ/3866941/desktop-computer.jpg",
+        "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook_mobile.jpg",
+        "https://m.media-amazon.com/images/I/718sn7oOcfL.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Intelligent Soft Cheese",
+      "price": 564,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "typeImg": "tech"
+      },
+      "images": [
+        "https://m.media-amazon.com/images/I/719NUE4jRvL.jpg",
+        "https://great-mini.mx/cdn/shop/products/LEVANTONEGRA.webp?v=1680738190",
+        "https://www.mueblesrey.com.bo/images/virtuemart/product/silla-doble-palanca.gif"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Small Steel Pants",
+      "price": 347,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": {
+        "id": 4,
+        "name": "Toys",
+        "typeImg": "any"
+      },
+      "images": [
+        "https://media.admagazine.com/photos/644b88b2154ed7b822040126/4:3/w_3000,h_2250,c_limit/plantas-con-flores.jpg",
+        "https://verdecora.es/blog/wp-content/uploads/2018/08/plantas-vivaces-flor-tardia.jpg",
+        "https://images.hola.com/imagenes/decoracion/20220810214947/plantas-con-flores-perennes-plantas-exterior-mc/1-125-376/vinca-t.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Unbranded Soft Chips",
+      "price": 919,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "typeImg": "animals"
+      },
+      "images": [
+        "https://www.dismac.com.bo/media/catalog/product/k/m/kmw-340bk.png",
+        "https://www.rafenlinea.com/7899-home_default/mouse-inalambrico-microsort-bluetooth-ergonomic-222-00002.jpg",
+        "https://www.rafenlinea.com/6457-home_default/mouse-optico-inalambrico-xtech-azul-xtm-315bl.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Football",
+      "price": 660,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "typeImg": "animals"
+      },
+      "images": [
+        "https://ae01.alicdn.com/kf/S5af0775ef8c247a5903f20509d2aee97K/Unicorn-Sports-pelota-redonda-de-goma-4-bolas-de-8-5-pulgadas-cuadradas-color-arco-ris.jpg",
+        "https://ae01.alicdn.com/kf/Sb15ed65077c244c680ba4ab1bf63780ae.jpg_640x640Q90.jpg_.webp",
+        "https://ae01.alicdn.com/kf/S03697edd1d684f4193427543dc688671Z/Unicorn-Sports-pelota-redonda-de-goma-4-bolas-de-8-5-pulgadas-cuadradas-color-arco-ris.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fantastic Wooden Chair",
+      "price": 893,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "typeImg": "tech"
+      },
+      "images": [
+        "https://img.freepik.com/vector-premium/vista-frontal-silla-madera-muebles-clasicos-comodos-asiento-marron-suave_572038-36.jpg",
+        "https://reimse.mx/wp-content/uploads/2019/11/bangu-gr-silla-madera-exterior.jpg",
+        "https://lasvermon.com/cdn/shop/products/silla-piel-vera-negra-perspectiva_1000x1000.jpg?v=1683642567"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Refined Granite Hat",
+      "price": 47,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "typeImg": "tech"
+      },
+      "images": [
+        "https://media.istockphoto.com/id/1036925096/vector/mexican-sombrero-hat-vector-illustration-on-a-white-background.jpg?s=612x612&w=0&k=20&c=RTcW-93liinBorYYXXEntd2TdCTBv7vavsUdFzQKigY=",
+        "https://m.media-amazon.com/images/I/71G77z+vMLL._AC_UY1000_.jpg",
+        "https://http2.mlstatic.com/D_NQ_NP_891679-MLA69549936620_052023-O.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Tasty Concrete Hat",
+      "price": 658,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "typeImg": "animals"
+      },
+      "images": [
+        "https://ae01.alicdn.com/kf/S5af0775ef8c247a5903f20509d2aee97K/Unicorn-Sports-pelota-redonda-de-goma-4-bolas-de-8-5-pulgadas-cuadradas-color-arco-ris.jpg",
+        "https://ae01.alicdn.com/kf/Sb15ed65077c244c680ba4ab1bf63780ae.jpg_640x640Q90.jpg_.webp",
+        "https://ae01.alicdn.com/kf/S03697edd1d684f4193427543dc688671Z/Unicorn-Sports-pelota-redonda-de-goma-4-bolas-de-8-5-pulgadas-cuadradas-color-arco-ris.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "NEW CANDY HOBO",
+      "price": 695,
+      "description": "Our Candy Hobo is a medium sized soft and slouchy zip top hobo.",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "typeImg": "people"
+      },
+      "images": [
+        "https://www.mansurgavriel.com/cdn/shop/files/WP23H095WS_Banana_CandyHobo_Detail_4.jpg",
+        "https://www.mansurgavriel.com/cdn/shop/files/WP23H095WS_Banana_CandyHobo_7378.jpg",
+        "https://www.mansurgavriel.com/cdn/shop/files/WP23H095WS_Banana_CandyHobo_Detail_2.jpg"
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
